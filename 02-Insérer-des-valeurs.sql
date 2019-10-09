@@ -1,0 +1,18 @@
+INSERT INTO `employes` (`prenom`, `nom`, `sexe`, `service`, `date_embauche`,`salaire`) VALUES 
+('Astrid', 'JONATHAN', 'f', 'direction', '2019-8-1', 4000 ),
+('Léna', 'BROISSERON', 'f', 'communication', '2018-10-1', 2500 ),
+('Bernard', 'TOTO', 'h', 'informatique', '2017-5-1', 2800 ),
+('Jennifer', 'LANCAS', 'f', 'secretariat', '2019-8-1', 1900 ),
+('Hugo', 'LIEGARD', 'h', 'entretien', '2017-4-1', 1500),
+('Jennifer', 'LANCAS', 'f', 'secretariat', '2019-8-1', 1900),
+('Nia', 'VITALIS', 'f', 'direction', '2019-02-01', 3500),
+('Catherine', 'RADIPALY', 'f', 'secretariat', '2019-04-01', 2500),
+('Gaëlle', 'CHARLES BELAMOUR', 'f', 'juridique', '2019-03-01', 3520),
+('Rosemaël', 'ANTHONY', 'f', 'communication', '2019-04-01', 3200),
+('Astrid', 'JONATHAN', 'f', 'informatique', '2019-05-01', 2250),
+('Melissa', 'TESSIER', 'f', 'production', '2019-06-01', 1520),
+('Cindy', 'OUIKEDE', 'f', 'production', '2019-06-01', 1520),
+('Anne-Sarah', 'CORNANO', 'f', 'production', '2019-06-01', 1520),
+('Laureen', 'LABUTHIE', 'f', 'commercial', '2019-05-01', 1800),
+('Katharyna', 'LUCINA', 'f', 'comptabilite', '2019-03-01', 2000),
+('Aurélie', 'NABAJOTH', 'f', 'commercial', '2019-05-01', 2700);
